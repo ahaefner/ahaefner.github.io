@@ -16,12 +16,12 @@ feature_row:
     excerpt: "Imaging UF6 cylinders for international safeguards applications (2018)"
   - image_path: /assets/images/lab_3source.png
     alt: "Compton Imaging 3D"
-    title: "Compton Image Reconstruction - 3D"
-    excerpt: "Localizing and imaging sources in 3D (2017)"
+    title: "Compton Image Reconstruction in 3D"
+    excerpt: "Localizing and imaging sources in 3D using ML-EM and SLAM from a handheld system (2017)"
   - image_path: /assets/images/comptonReconstruction.png
     alt: "Compton Imaging"
-    title: "Compton Image Reconstruction - 2D"
-    excerpt: "Reconstruction Gamma-ray directional sources image sources (2015)"
+    title: "Compton Image Reconstruction in 2D"
+    excerpt: "Reconstructing 2D directional gamma-ray images using Filtered Backprojection (2015)"
   - image_path: /assets/images/visualReconstruction.png
     alt: "Thesis image"
     title: "PhD Thesis" 
@@ -44,7 +44,7 @@ This makes for a very interesting image reconstruction, of which I am currently 
 Previously I was a research scientist in the [Applied Nuclear Physics](https://anp.lbl.gov) group at Lawrence Berkeley National Laboratory working on gamma-ray imaging, especially image reconstruction algorithms and real-time data fusion to make 3D gamma-ray maps of radioactive sources. 
 This took me to interesting places around the world to perform dozens of live field measurements and demonstrations.
 
-I also make [music](/music) with improvised saxohpone and a program that generates electronics.
+I also make [music](/music) with improvised saxophone and a program that generates electronics.
 
 # Publications
 {% include feature_row %}
