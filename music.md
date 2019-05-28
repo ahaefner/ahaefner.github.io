@@ -10,7 +10,7 @@ intro:
 # Music 
 saxophone, improvising, sometimes jazz, sometimes electronics
 
-I built a music generating software program to combine my interests in improvising music and building (software) things. 
+I created a music generating software program to combine my interests in improvising music and building (software) things. 
 I made the program to explore how randomness can be harnessed to create structure. 
 My goal was to create music that didn't sound random but was based on underlying random notes.
 The program allowed me to compose by tweaking sets of parameters that controlled the music generation in real-time. 
