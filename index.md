@@ -37,14 +37,15 @@ feature_row:
 My research interests are in image reconstruction inverse problems and the
 software to compute and render those images.
 
-I am currently an imaging scientist at [Openwater](https://www.openwater.cc/). 
+I am currently an Imaging Scientist at [Openwater](https://www.openwater.cc/). 
 Our goal is to make medical imaging more accessible by using  near infrared lasers, holograms, ultrasound and high volume consumer electronics manufacturing.
-This makes for a very interesting image reconstruction, of which I am currently working on. 
+This makes for a very interesting image reconstruction, which I am currently working on. 
 
-Previously I was a research scientist in the [Applied Nuclear Physics](https://anp.lbl.gov) group at Lawrence Berkeley National Laboratory working on gamma-ray imaging, especially image reconstruction algorithms and real-time data fusion to make 3D gamma-ray maps of radioactive sources. 
+Previously I was a Research Scientist in the [Applied Nuclear Physics](https://anp.lbl.gov) group at Lawrence Berkeley National Laboratory working on gamma-ray imaging, especially image reconstruction algorithms and real-time data fusion to make 3D gamma-ray maps of radioactive sources. 
 This took me to interesting places around the world to perform dozens of live field measurements and demonstrations.
 
 I also make [music](/music) with improvised saxophone and a program that generates electronics.
+While at the University of Michigan I dual majored in Jazz Studies and Nuclear Engineering.
 
 # Publications
 {% include feature_row %}
