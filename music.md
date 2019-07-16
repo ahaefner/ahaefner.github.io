@@ -33,4 +33,5 @@ Musicians:
 
 # About 
 
-While at the University of Michigan I studied Jazz under Geri Allen, Andrew Bishop and Donald Walden.
+While at the University of Michigan I studied music in the Jazz department under 
+Geri Allen, Andrew Bishop and Donald Walden.
